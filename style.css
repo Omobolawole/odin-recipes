@@ -2,9 +2,18 @@ body{
     background-color: rgb(126, 223, 215);
 }
 
-h1 {
+h1,
+h2 {
     background-color: rgb(138, 36, 36);
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(12, 57, 94);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
     font-weight: bold;
@@ -23,7 +32,16 @@ img {
 }
 
 li {
-    color: rgb(97, 157, 206);
+    color: rgb(12, 57, 94);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    background-color: rgb(138, 36, 36);
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
     font-weight: bold;
